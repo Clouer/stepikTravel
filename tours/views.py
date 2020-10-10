@@ -1,8 +1,10 @@
 import random
-from django.shortcuts import render
+
 from django.http import Http404
-from django.views import View
+from django.shortcuts import render
+
 from tours import data
+from django.views import View
 
 
 class MainView(View):
