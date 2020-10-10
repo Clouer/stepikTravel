@@ -2,9 +2,9 @@ import random
 
 from django.http import Http404
 from django.shortcuts import render
+from django.views import View
 
 from tours import data
-from django.views import View
 
 
 class MainView(View):
