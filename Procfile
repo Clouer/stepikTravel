@@ -1,1 +1,1 @@
-web: gunicorn stepikTravelProject.wsgi
+web: gunicorn conf.wsgi
