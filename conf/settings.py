@@ -25,7 +25,7 @@ SECRET_KEY = '@c8451&29fexw-1&65akqpxizd=4d(gx-*=xem+5m4*(kiy1(9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['stepik-clouer-project.herokuapp.com']
 
 STATIC_ROOT = 'static'
 
